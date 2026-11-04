@@ -1,6 +1,8 @@
+
 streamlit
 crewai
 python-dotenv
+litellm
 groq
 chromadb
 PyMuPDF
